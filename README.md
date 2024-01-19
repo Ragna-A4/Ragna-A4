@@ -3,10 +3,12 @@
 
 ____
 
-``` React ``` &nbsp; &nbsp; &nbsp; &nbsp; ``` JS ``` &nbsp; &nbsp; &nbsp; &nbsp; ``` HTML ``` &nbsp; &nbsp; &nbsp; &nbsp; ``` CSS ``` &nbsp; &nbsp; &nbsp; &nbsp; ``` Git ``` &nbsp; &nbsp; &nbsp; &nbsp; ``` mongoDB ```   
+```   React   ``` &nbsp; &nbsp; &nbsp; &nbsp; ```   JS   ``` &nbsp; &nbsp; &nbsp; &nbsp; ```   HTML   ``` &nbsp; &nbsp; &nbsp; &nbsp; ```   CSS   ``` &nbsp; &nbsp; &nbsp; &nbsp; ``` 
+  Git   ``` &nbsp; &nbsp; &nbsp; &nbsp; ```   mongoDB   ```   
 
   
-📫 How to reach me: 
+📫 How to reach me: https://t.me/Ragna_A4
+
 
 
 
